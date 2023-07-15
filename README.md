@@ -1,18 +1,6 @@
 # Plant-Disease-Diagnosis-Flask
 Online Flask Web App for Plant Disease Diagnosis from Images <br>
 
-<img src="demo.JPG" width="600" height="300"/><br><br>
-
-## Tools Used
-```
-Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit-Learn
-```
-
-## Dataset
-
-https://www.kaggle.com/emmarex/plantdisease
-
-
-
+![image](https://github.com/ElangoSubramani/Plant-Disease-Classification-using-Deep-Learning-/assets/122277416/2b416b94-d451-4dd6-9be4-1eabd7f49678)
 
 
