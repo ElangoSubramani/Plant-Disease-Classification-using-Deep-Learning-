@@ -20,7 +20,7 @@ app = Flask(__name__)
 # Check https://keras.io/applications/
 
 model =tf.keras.models.load_model('PlantDNet.h5',compile=False)
-print('Model loaded. Check http://127.0.0.1:5000/')
+# print('Model loaded. Check http://127.0.0.1:5000/')
 
 
 def model_predict(img_path, model):
@@ -72,7 +72,7 @@ def upload():
 
 
 if __name__ == '__main__':
-    app.run(port=5002, debug=True)
+    app.run(port=8501, debug=True)
 
     # Serve the app with gevent
     # http_server = WSGIServer(('', 5000), app)
