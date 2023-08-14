@@ -46,6 +46,7 @@ scikit-image
 scipy
 six
 tensorboard
+tensorflow-cpu
 tensorboard-data-server
 tensorflow-estimator
 tensorflow-intel
