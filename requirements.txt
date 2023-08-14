@@ -46,10 +46,3 @@ rsa
 scikit-image
 scipy
 six
-termcolor
-typing_extensions0
-urllib3
-Werkzeug
-wrapt
-zope.event
-zope.interface
