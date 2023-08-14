@@ -1,3 +1,4 @@
+tensorflow-cpu
 ﻿absl-py==1.4.0
 astunparse==1.6.3
 blinker==1.6.2
@@ -45,12 +46,6 @@ rsa
 scikit-image
 scipy
 six
-tensorboard
-tensorflow-cpu==2.11.0
-tensorboard-data-server
-tensorflow-estimator
-tensorflow-intel
-tensorflow-io-gcs-filesystem
 termcolor
 tifffile
 typing_extensions
