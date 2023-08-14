@@ -1,6 +1,5 @@
 absl-py==1.4.0
-protobuf>=3.4.0
-tensorflow-cpu
+-U tensorflow-cpu
 astunparse==1.6.3
 blinker==1.6.2
 cachetools==5.3.1
