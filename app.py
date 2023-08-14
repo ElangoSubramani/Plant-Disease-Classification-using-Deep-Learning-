@@ -13,6 +13,7 @@ from gevent.pywsgi import WSGIServer
 
 # Define a flask app
 app = Flask(__name__)
+server=app.server
 
 # Model saved with Keras model.save()
 
@@ -72,7 +73,7 @@ def upload():
 
 
 if __name__ == '__main__':
-    app.run(port=8501, debug=True)
+    app.run(port=8501, debug=False)
 
     # Serve the app with gevent
     # http_server = WSGIServer(('', 5000), app)
