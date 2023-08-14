@@ -47,7 +47,6 @@ scikit-image
 scipy
 six
 termcolor
-tifffile
 typing_extensions0
 urllib3
 Werkzeug
