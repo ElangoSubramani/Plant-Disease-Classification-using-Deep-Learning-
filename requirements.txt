@@ -46,7 +46,7 @@ scikit-image
 scipy
 six
 tensorboard
-tensorflow-cpu
+tensorflow-cpu==2.11.0
 tensorboard-data-server
 tensorflow-estimator
 tensorflow-intel
