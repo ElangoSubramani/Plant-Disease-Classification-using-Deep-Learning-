@@ -10,7 +10,7 @@ colorama==0.4.6
 Flask
 flatbuffers==23.5.26
 gast==0.4.0
-gevent==23.7.0
+gevent
 gunicorn
 google-auth==2.22.0
 google-auth-oauthlib==1.0.0
