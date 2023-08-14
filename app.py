@@ -13,7 +13,6 @@ from gevent.pywsgi import WSGIServer
 
 # Define a flask app
 app = Flask(__name__)
-server=app.server
 
 # Model saved with Keras model.save()
 
