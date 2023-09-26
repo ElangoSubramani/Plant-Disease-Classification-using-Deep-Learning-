@@ -1,7 +1,7 @@
 tensorboard
 gunicorn
-absl-py==1.4.0
-tensorflow-cpu== 2.10.1
+absl-py==0.14.0  # Change the version to match TensorFlow 2.10.1
+tensorflow-cpu==2.10.1
 astunparse==1.6.3
 blinker==1.6.2
 cachetools==5.3.1
@@ -22,7 +22,6 @@ grpcio==1.56.2
 h5py
 idna
 imageio
-install
 itsdangerous
 Jinja2
 keras
@@ -36,7 +35,7 @@ oauthlib
 opt-einsum
 packaging
 Pillow
-protobuf
+protobuf==3.20.0  
 pyasn1
 pyasn1-modules
 pycparser
