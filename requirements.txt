@@ -1,4 +1,3 @@
-google-auth-oauthlib
 tensorboard
 gunicorn
 absl-py==1.4.0
